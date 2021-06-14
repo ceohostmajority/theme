@@ -1,0 +1,4 @@
+name: "My Custom Theme"
+author: "WHMCS Limited"
+config:
+  parent: twenty-one
